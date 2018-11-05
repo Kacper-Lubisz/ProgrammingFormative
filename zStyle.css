@@ -1,0 +1,18 @@
+* {
+	font-family: "Comic Sans MS";
+}
+
+h1 {
+	color: blue;
+	background-color: green;
+	border: 1px solid black;
+}
+
+h2 {
+	text-decoration: underline;
+	font-size: 150%;
+}
+
+p {
+	color: red;
+}
